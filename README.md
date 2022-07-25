@@ -1,4 +1,4 @@
-This is the Snake game which is implemented on java by me and my 2 friends for the assignment. 
+This is the Snake game which is implemented on java by me and my 2 friends for the school assignment. 
 
 In order to play the game you have to download all the files including images so, 
 I recommend you to directly add this repository to your own Github Desktop and open it easily via Visual Studio Code and run it. 
